@@ -4,6 +4,6 @@ A portable Common Lisp toolkit for building inspectors
 
 |---------+----------------------------------------------------|
 | source  | git:https://github.com/aartaka/trivial-inspect.git |
-| commit  | a1937b0                                            |
+| commit  | 8f91883                                            |
 | systems | trivial-inspect                                    |
 |---------+----------------------------------------------------|
