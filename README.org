@@ -7,4 +7,4 @@ A portable Common Lisp toolkit for building inspectors
 | commit  | 7fd9280                                            |
 | systems | trivial-inspect                                    |
 |---------+----------------------------------------------------|
- 
+  
